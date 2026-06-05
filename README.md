@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 Análise exploratória do dataset da La Liga 2022/2023 (Kaggle), simulando uma entrega para a empresa fictícia **DataSports Analytics**. O objetivo foi extrair insights sobre eficiência ofensiva, perfil dos elencos, disciplina e desempenho individual dos jogadores.
 
@@ -17,7 +17,7 @@ Análise exploratória do dataset da La Liga 2022/2023 (Kaggle), simulando uma e
 
 ---
 
-## 🔍 Análises Realizadas
+##  Análises Realizadas
 
 ### 1. Eficiência Ofensiva por 90 min
 Criação das métricas **GP** (gols por 90 min) e **AP** (assistências por 90 min), filtradas para jogadores com mais de 900 minutos jogados.
@@ -67,7 +67,7 @@ Scatter chart cruzando prêmios de Melhor em Campo com a nota média dos jogador
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 | Ferramenta | Uso |
 |---|---|
@@ -78,30 +78,30 @@ Scatter chart cruzando prêmios de Melhor em Campo com a nota média dos jogador
 
 ---
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
-📦 laliga-analise
+ laliga-analise
  ┣ 📂 notebooks
- ┃ ┣ 📓 not1_idade_elenco.ipynb
- ┃ ┣ 📓 not2_eficiencia_ofensiva.ipynb
- ┃ ┣ 📓 not3_motm_rating.ipynb
- ┃ ┗ 📓 not4_cartoes.ipynb
+ ┃ ┣  not1_idade_elenco.ipynb
+ ┃ ┣  not2_eficiencia_ofensiva.ipynb
+ ┃ ┣  not3_motm_rating.ipynb
+ ┃ ┗  not4_cartoes.ipynb
  ┣ 📂 data
- ┃ ┗ 📄 laliga_2223.csv
+ ┃ ┗  laliga_2223.csv
  ┣ 📂 exports
- ┃ ┣ 📊 eficiencia_jogadores.xlsx
- ┃ ┣ 📊 Idade_elenco.xlsx
- ┃ ┣ 📊 melhores_da_temp.xlsx
- ┃ ┗ 📊 Cartao.xlsx
+ ┃ ┣  eficiencia_jogadores.xlsx
+ ┃ ┣  Idade_elenco.xlsx
+ ┃ ┣  melhores_da_temp.xlsx
+ ┃ ┗  Cartao.xlsx
  ┣ 📂 dashboard
- ┃ ┗ 📊 LaLiga_Dashboard.pbix
- ┗ 📄 README.md
+ ┃ ┗  LaLiga_Dashboard.pbix
+ ┗ README.md
 ```
 
 ---
 
-## 💡 Principais Insights
+## Principais Insights
 
 - **Lewandowski** liderou tanto em GP (0,80 gols/90min) quanto em MOTM (7 prêmios), com o maior rating da temporada (7,53)
 - **Mallorca** foi o time mais indisciplinado com 67 cartões no total; **Athletic Bilbao** o mais disciplinado com apenas 33
@@ -110,7 +110,7 @@ Scatter chart cruzando prêmios de Melhor em Campo com a nota média dos jogador
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Luis Gustavo**  
 Engenharia de Software — UDF  
