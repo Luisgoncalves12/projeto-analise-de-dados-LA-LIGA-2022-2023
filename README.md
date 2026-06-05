@@ -114,4 +114,4 @@ Scatter chart cruzando prêmios de Melhor em Campo com a nota média dos jogador
 
 **Luis Gustavo**  
 Engenharia de Software — UDF  
-[LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/luis-gustavo-2422b2338/)) · [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/luis-gustavo-2422b2338/) · [GitHub](https://github.com/Luisgoncalves12)
